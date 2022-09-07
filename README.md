@@ -1,4 +1,4 @@
-# lmhost
+# Dos_FlexLM
 Find Autodesk users that are consuming a server based license 
 
 Super simple way of giving our frontline staff a method of checking license usage.
